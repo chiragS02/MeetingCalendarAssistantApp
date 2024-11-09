@@ -1,0 +1,7 @@
+com\meeting\Meeting_Calendar_Assistant\controller\MeetingController.class
+com\meeting\Meeting_Calendar_Assistant\repository\MeetingRepository.class
+com\meeting\Meeting_Calendar_Assistant\MeetingCalendarAssistantApplication.class
+com\meeting\Meeting_Calendar_Assistant\exception\MeetingConflictException.class
+com\meeting\Meeting_Calendar_Assistant\model\Meeting.class
+com\meeting\Meeting_Calendar_Assistant\service\MeetingService.class
+com\meeting\Meeting_Calendar_Assistant\model\Employee.class
